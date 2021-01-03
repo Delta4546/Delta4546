@@ -1,16 +1,37 @@
-### Hi there 👋
+<p align="center">
+    <img src="https://1.bp.blogspot.com/-ytjMGtoyVnc/XYdpPLlerCI/AAAAAAAABY8/xs8b0iDBAtUufu4EhQm4L58Io2sUxiHLgCLcBGAsYHQ/w680/externalFile.gif">
+</p>   
+<br>
+<br>
+<p align="center">
+    
+</p>
+<br>
+<br>
+<p align="center">
+////////////////////////////////[start]\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+</p>
 
-<!--
-**Delta4546/Delta4546** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+    <br>
+    <strong>Hello :)<br>I'm a web dev I love secu <br> 
+    and watch animes and read manga</strong> <br>
+    <br>
+    </strong>
+ 
+<p align="center">
+         <a href="#">
+         <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
+         </a>
+         <a href="https://d3lt4---stream.000webhostapp.com/">
+         <img src="https://img.shields.io/website?down_color=red&down_message=website%20id%20off&up_color=green&up_message=website%20is%20on&url=https%3A%2F%2Fd3lt4---stream.000webhostapp.com%2F">
+         </a>
+<br>
+<br>
+////////////////////////////////[end]\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+<br>
+<br>
+<br>
+<br>
+<img src="https://wallup.net/wp-content/uploads/2016/04/10/319659-Kentaro_Miura-Berserk-Guts.jpg">
+</p>
