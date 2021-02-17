@@ -23,7 +23,7 @@
          <a href="#">
          <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
          </a>
-         <a href="https://delta4546.github.io/Bicycle/">
+         <a href="https://delta4546.github.io/Gino_Bartali/">
          <img src="https://img.shields.io/website?down_color=red&down_message=web%20site%20is%20off&style=flat-square&up_color=green&up_message=web%20site%20is%20on&url=https%3A%2F%2Fdelta4546.github.io%2FGino_Bartali%2F">
          </a>
 <br>
