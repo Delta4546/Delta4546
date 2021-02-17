@@ -24,7 +24,7 @@
          <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
          </a>
          <a href="https://delta4546.github.io/Bicycle/">
-         <img src="https://img.shields.io/website?down_color=red&down_message=website%20id%20off&up_color=green&up_message=website%20is%20on&url=https%3A%2F%2Fd3lt4---stream.000webhostapp.com%2F">
+         <img src="https://img.shields.io/website?down_color=red&down_message=website%20id%20off&up_color=green&up_message=website%20is%20on&url=https://delta4546.github.io/Gino_Bartali/">
          </a>
 <br>
 <br>
